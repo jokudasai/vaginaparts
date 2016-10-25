@@ -56,17 +56,18 @@ body {
 
 #row2{
     background-color: #19A4F8;
-    font-family: Futura;
+    font-family: "Open Sans", sans-serif;
 }
 
 #row3{
     background-color: #F8195C;
-    font-family: Futura;
+    font-family: Trirong, Futura, sans-serif;
 }
 
 #row4{
     background-color: #F89519;
-    font-family: Futura;
+    font-family: Lato;
+    font-weight: 100;
 }
 
 #row5{
